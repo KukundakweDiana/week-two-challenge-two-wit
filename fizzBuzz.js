@@ -18,6 +18,7 @@ function fizzBuzz(array1, array2) {
   {
     return 4;
   }
+  return array3;
 }
 // console.log(fizzBuzz(array2, array1));
 module.exports = fizzBuzz;
