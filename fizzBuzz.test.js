@@ -12,6 +12,6 @@ describe("this test should check the combined whether the array length is either
     );
   });
   it("checks that anything that returns a remainder returns 4", () => {
-    expect(fizzBuzz([1, 2, 3], [1]).toBe(4));
+    expect(fizzBuzz([1, 2, 3], [1])).toBe(4);
   });
 });
